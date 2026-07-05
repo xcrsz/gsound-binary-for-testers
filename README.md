@@ -1,6 +1,6 @@
 # gsound-binary-for-testers
 
-Prebuilt Go binary for testing **GSound on GhostBSD and FreeBSD**.
+Prebuilt Go binary for testing **GSound on GhostBSD**.
 
 This repository provides ready-to-run binaries so testers can validate audio behavior without building from source.
 
